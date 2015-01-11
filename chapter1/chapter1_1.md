@@ -6,4 +6,5 @@
 2. EClipse -> File -> New Maven Project
 
 ![Image](http://github.com/Smoker21/WebAppTutorial/blob/master/chapter1/Chap1-1.png)
+![Image](http://github.com/Smoker21/WebAppTutorial/blob/master/chapter1/Chap1-2.png)
 3.
