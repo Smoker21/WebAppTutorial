@@ -4,4 +4,4 @@
 
 1. 建立一個 Maven project
 2. EClipse -> File -> New Maven Project
-3. ![Image](http://github.com/Smoker21/WebAppTutorial/blob/master/chapter1/Chap1-1.png)
+3. ![Create Project](http://github.com/Smoker21/WebAppTutorial/blob/master/chapter1/Chap1-1.png)
